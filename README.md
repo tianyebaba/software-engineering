@@ -1,2 +1,1 @@
-# git_homework
-work
+sotfware engineering
